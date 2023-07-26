@@ -1,0 +1,3 @@
+/Users/rohitkatakam/projects/BummyWebMD 5.13.56 PM/cmake-build-debug/CMakeFiles/BummyWebMD.dir
+/Users/rohitkatakam/projects/BummyWebMD 5.13.56 PM/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rohitkatakam/projects/BummyWebMD 5.13.56 PM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
