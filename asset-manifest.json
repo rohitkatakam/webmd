@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/webmd/static/css/main.073c9b0a.css",
-    "main.js": "/webmd/static/js/main.e7439498.js",
+    "main.css": "/webmd/static/css/main.e0df7b88.css",
+    "main.js": "/webmd/static/js/main.ad5d7994.js",
     "static/js/787.506900cf.chunk.js": "/webmd/static/js/787.506900cf.chunk.js",
-    "static/media/logo.svg": "/webmd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/mainRearranged.csv": "/webmd/static/media/mainRearranged.362df1cdb6c9ea2be0ac.csv",
     "index.html": "/webmd/index.html",
-    "main.073c9b0a.css.map": "/webmd/static/css/main.073c9b0a.css.map",
-    "main.e7439498.js.map": "/webmd/static/js/main.e7439498.js.map",
+    "main.e0df7b88.css.map": "/webmd/static/css/main.e0df7b88.css.map",
+    "main.ad5d7994.js.map": "/webmd/static/js/main.ad5d7994.js.map",
     "787.506900cf.chunk.js.map": "/webmd/static/js/787.506900cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e7439498.js"
+    "static/css/main.e0df7b88.css",
+    "static/js/main.ad5d7994.js"
   ]
 }
