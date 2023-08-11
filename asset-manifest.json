@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/webmd/static/css/main.36dfba2d.css",
-    "main.js": "/webmd/static/js/main.679ed66b.js",
+    "main.css": "/webmd/static/css/main.bfacf3d1.css",
+    "main.js": "/webmd/static/js/main.a4617b6a.js",
     "static/js/787.506900cf.chunk.js": "/webmd/static/js/787.506900cf.chunk.js",
     "static/media/mainRearranged.csv": "/webmd/static/media/mainRearranged.362df1cdb6c9ea2be0ac.csv",
     "index.html": "/webmd/index.html",
-    "main.36dfba2d.css.map": "/webmd/static/css/main.36dfba2d.css.map",
-    "main.679ed66b.js.map": "/webmd/static/js/main.679ed66b.js.map",
+    "main.bfacf3d1.css.map": "/webmd/static/css/main.bfacf3d1.css.map",
+    "main.a4617b6a.js.map": "/webmd/static/js/main.a4617b6a.js.map",
     "787.506900cf.chunk.js.map": "/webmd/static/js/787.506900cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36dfba2d.css",
-    "static/js/main.679ed66b.js"
+    "static/css/main.bfacf3d1.css",
+    "static/js/main.a4617b6a.js"
   ]
 }
